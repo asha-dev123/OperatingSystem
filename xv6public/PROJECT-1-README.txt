@@ -1,11 +1,6 @@
                                                                          PROJECT-1-README
 
 
-Group Members:
-
-A Asha Tummuuru  -  U38611026
-B Vani Pailla    -  U95251377
-
 System Environment:
 
 This project was developed and tested on a system running Ubuntu 22.04.3, a stable Linux 5.15.153.1 distribution ideal for development. The primary tool used for editing and managing the code was Visual Studio Code, a versatile code editor with extensive plugin support. The Xv6-public operating system was compiled and tested using the GCC [v compiler, which provided compatibility with the C language used for system-level programming in Xv6. To emulate the Xv6 environment, we used QEMU 1.15.0-1, a widely-used open-source hardware emulator, which allowed for testing Xv6 as though it were running on physical hardware. The combination of these tools created a robust development environment that allowed for seamless coding, compiling, and testing of Xv6 modifications, including new system calls and user commands.
